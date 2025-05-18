@@ -45,7 +45,7 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 
 1. Copy docker image ulr
  ```
-ocker.io/woodcraftbot/1tamilmv-bot:latest
+docker.io/woodcraftbot/1tamilmv-bot:latest
 ```
 5. Set the following variables:
    • Add Your Telegram bot details.
