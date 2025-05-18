@@ -41,6 +41,7 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 
 
 ## 🚀 Deployment
+[Deployment Guide Link 🖇️](https://sudor2spr.github.io/TamilMV-Magnet-Bot-Deployment-Guide/)
 
 1. Copy docker image ulr
  ```
