@@ -30,7 +30,6 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 - 🛡️ **Rate Limit Handling**  
   Smart retries and wait handling for Telegram API rate limits.
 
----
 
 ## ⚙️ Tech Stack
 
@@ -40,7 +39,6 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 - BeautifulSoup (for web scraping)
 - Hosted on **Render.com**
 
----
 
 ## 🚀 Deployment
 
@@ -57,7 +55,6 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 4. Deploy to Render / Railway / Your own server
 5. ✅ Done!
 
----
 
 ## 📸 Screenshots
 
@@ -65,18 +62,14 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 |---------------|-------------------|
 | ![start](https:/op-torrent.png) | ![torrent](https://wait-ok.jpg) |
 
----
 
 ## 📢 Channels
 
 - Updates: [@Tamilmv_Magnet_Link](https://t.me/Tamilmv_Magnet_Link)  
 - Support: [@Opleech_WD](https://t.me/Opleech_WD)
 
----
-
 ## ❤️ Credits
 
----
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
 <a href="https://t.me/Opleech_WD"><img src="https://img.shields.io/badge/-𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭 𝐌𝐢𝐫𝐫𝐨𝐫 𝐙𝐨𝐧𝐞™%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
