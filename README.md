@@ -64,7 +64,7 @@ TAMILMV_URL=https://www.1tamilmv.fi
 
 | Start Command | Auto Torrent Post |
 |---------------|-------------------|
-| ![start](https:/op-torrent.png) | ![torrent](https://wait-ok.jpg) |
+| ![start](https://raw.githubusercontent.com/SudoR2spr/TamilMV-Magnet-Bot-Deployment-Guide/refs/heads/master/Op-Screenshot/start-message.jpg) | ![torrent](https://raw.githubusercontent.com/SudoR2spr/TamilMV-Magnet-Bot-Deployment-Guide/refs/heads/master/Op-Screenshot/op-screenshot.jpg) |
 
 
 ## 📢 Channels
