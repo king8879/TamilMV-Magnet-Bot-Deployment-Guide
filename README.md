@@ -43,15 +43,19 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 ## 🚀 Deployment
 
 1. Copy docker image ulr
-2. ```docker.io/woodcraftbot/1tamilmv-bot:latest```
-3. Set the following variables:
+ ```
+ocker.io/woodcraftbot/1tamilmv-bot:latest
+```
+5. Set the following variables:
    • Add Your Telegram bot details.
+```
+TOKEN=87961oo739:AAHBBhz5otZ2kPUAV7UKMuuk
+CHANNEL_ID=-10088800033
+CHANNEL_USERNAME=Tamilmv_Magnet_Link
+WEBHOOK_URL=https://onetamilmv-bot-latest.onrender.com
+TAMILMV_URL=https://www.1tamilmv.fi
+```
 
-```TOKEN=87961oo739:AAHBBhz5otZ2kPUAV7UKMuuk
-   CHANNEL_ID=-10088800033
-   CHANNEL_USERNAME=Tamilmv_Magnet_Link
-   WEBHOOK_URL=https://onetamilmv-bot-latest.onrender.com
-   TAMILMV_URL=https://www.1tamilmv.fi```
 4. Deploy to Render / Railway / Your own server
 5. ✅ Done!
 
@@ -81,7 +85,7 @@ A powerful Telegram bot that automatically scrapes the latest movie torrents fro
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> 
 </p>
  
------
+
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
 
 - [![Contact Me On Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Farooq_is_king)
